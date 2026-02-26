@@ -1,4 +1,4 @@
-import { CometChatLocalize, getLocalizedString } from '@cometchat/chat-uikit-react';
+import { CometChatLocalize } from '@cometchat/chat-uikit-react';
 import englishUS from '../locales/en-US/en-US.json';
 import englishGB from '../locales/en-GB/en-GB.json';
 
